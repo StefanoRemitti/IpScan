@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LinuxIpDiscovery.Core/LinuxIpDiscovery.Core.csproj" />
+    <Project Path="src/LinuxIpDiscovery/LinuxIpDiscovery.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LinuxIpDiscovery.Tests/LinuxIpDiscovery.Tests.csproj" />
+  </Folder>
+</Solution>
